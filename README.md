@@ -14,3 +14,7 @@ To use flocker simply require it in your script:
 ```ruby
 require 'flocker'
 ```
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/chrismetcalfe/flocker/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
